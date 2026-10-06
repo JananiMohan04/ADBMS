@@ -1,0 +1,1 @@
+RENAME student TO students;
