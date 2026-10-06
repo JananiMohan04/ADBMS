@@ -1,0 +1,3 @@
+INSERT INTO employee1 VALUES (102, 'Priya', 30000);
+
+ROLLBACK;
